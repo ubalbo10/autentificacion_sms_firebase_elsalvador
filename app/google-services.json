@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "734761098917",
+    "firebase_url": "https://fir-phone-verification-f-140d8.firebaseio.com",
+    "project_id": "fir-phone-verification-f-140d8",
+    "storage_bucket": "fir-phone-verification-f-140d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734761098917:android:5530335504d1139421b74c",
+        "android_client_info": {
+          "package_name": "me.obydul.firebasephoneverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734761098917-iqci2288qol9p4tbou9ugfen9gj05eed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.obydul.firebasephoneverification",
+            "certificate_hash": "800593fac6a61a47b0cc184400f2bb99d7f75b7e"
+          }
+        },
+        {
+          "client_id": "734761098917-3f0aagk96tjhh78ghco3r4rg0fito99o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMy3Ii-eC7BNTJxJmwQKI7C5IS40k0jkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734761098917-3f0aagk96tjhh78ghco3r4rg0fito99o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
